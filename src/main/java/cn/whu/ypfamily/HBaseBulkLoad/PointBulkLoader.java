@@ -21,7 +21,6 @@ import org.apache.log4j.BasicConfigurator;
 
 import java.io.IOException;
 
-// Point
 public class PointBulkLoader extends Configured implements Tool {
     public static void main(String[] args) throws Exception {
         BasicConfigurator.configure();
